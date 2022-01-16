@@ -9,6 +9,7 @@
 * Interactive Map
 * Customizable territories
 * Quest journal that can be updated by the game administor
+* Deployed using heroku: https://dndreborn.herokuapp.com/
 
 ### Home-Page:
 
